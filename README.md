@@ -46,7 +46,7 @@ Before running the program, make sure to set up the following environment variab
 4. Run the program:
 
     ```bash
-    python main.py
+    python app.py
     ```
 
 ## Notes
